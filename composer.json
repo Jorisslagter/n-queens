@@ -1,0 +1,9 @@
+{
+    "name": "jorisslagter/queens",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\": "src/"},
+        "files": ["src/Helpers.php"]
+    }
+}
