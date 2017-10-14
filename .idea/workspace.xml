@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Board.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Board.php">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4031">
-              <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+            <state relative-caret-position="29">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/src/Solver.php" />
         <option value="$PROJECT_DIR$/src/Helpers.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -207,19 +208,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507908403033</updated>
-      <workItem from="1507908405457" duration="25927000" />
+      <workItem from="1507908405457" duration="26075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25927000" />
+    <option name="totallyTimeSpent" value="26075000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="977" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -441,6 +442,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4031">
           <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+          <folding>
+            <marker date="1507966188000" expanded="true" signature="26:59" ph=" Class Board ..." />
+            <marker date="1507966188000" expanded="true" signature="75:3833" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="84:139" ph=" Array with cells ..." />
+            <marker date="1507966188000" expanded="true" signature="177:242" ph=" ..." />
+            <marker date="1507966188000" expanded="true" signature="279:345" ph=" ..." />
+            <marker date="1507966188000" expanded="true" signature="383:480" ph=" Board constructor. ..." />
+            <marker date="1507966188000" expanded="true" signature="539:670" ph="{...}" />
+            <marker date="1507966188000" expanded="true" signature="679:786" ph=" ..." />
+            <marker date="1507966188000" expanded="true" signature="823:1147" ph="{...}" />
+            <marker date="1507966188000" expanded="true" signature="899:1081" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="1020:1070" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="1156:1210" ph=" Get the grid ..." />
+            <marker date="1507966188000" expanded="true" signature="1250:1291" ph="{...}" />
+            <marker date="1507966188000" expanded="true" signature="1300:1406" ph=" ..." />
+            <marker date="1507966188000" expanded="true" signature="1446:1488" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="1498:1625" ph=" ..." />
+            <marker date="1507966188000" expanded="true" signature="1673:1725" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="1735:1802" ph=" ..." />
+            <marker date="1507966188000" expanded="true" signature="1847:1890" ph="{...}" />
+            <marker date="1507966188000" expanded="true" signature="1899:1966" ph=" @param $x ..." />
+            <marker date="1507966188000" expanded="true" signature="2011:3830" ph="{...}" />
+            <marker date="1507966188000" expanded="true" signature="2186:2310" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="2257:2300" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="2477:2601" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="2548:2591" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="2767:2891" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="2838:2881" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="3061:3185" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="3132:3175" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="3328:3452" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="3399:3442" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="3593:3717" ph="..." />
+            <marker date="1507966188000" expanded="true" signature="3664:3707" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
